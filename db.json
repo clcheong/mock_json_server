@@ -23,6 +23,78 @@
             "example_product_names": ["TechGenius", "DataSolve", "CloudWorks"],
             "specific_call_to_actions": ["Request a consultation", "Explore our solutions", "Contact us for more information"],
             "product_categories": ["Software Development", "IT Consulting", "Digital Transformation", "Cloud Services"]
+        },
+        {
+            "id": 2,
+            "industry": "Interior Design",
+            "company_name": "Elegance Interiors",
+            "office_address": "456, Jalan Harmoni, 50400, Kuala Lumpur, Malaysia.",
+            "contact_email": "info@eleganceinteriors.com",
+            "contact_phone_number": "+6016-789 1234",
+            "color_theme": ["#774C60", "#FFFFFF", "#E5E5E5"],
+            "focus_specific_locations": ["Kuala Lumpur", "Petaling Jaya", "Shah Alam"],
+            "summary_of_main_business_services_provided": "Elegance Interiors is a premier interior design firm dedicated to creating stunning and functional spaces that reflect our clients' tastes and lifestyles. Our services encompass residential, commercial, and hospitality design, offering personalized solutions to elevate any environment.",
+            "focus_keywords": ["interior design", "residential design", "commercial design", "hospitality design"],
+            "focus_customer_group": {
+            "business_type": "b2c",
+            "target_customers": ["Homeowners", "Business Owners", "Hospitality Industry"]
+            },
+            "history_of_the_company": {
+            "founder": "Sophia Lee",
+            "founded_since": "2010",
+            "progression": "Elegance Interiors was founded with a passion for transforming spaces into havens of beauty and functionality. Since our inception, we have collaborated with discerning clients and industry partners to bring exceptional design concepts to life, earning a reputation for excellence in the field."
+            },
+            "example_product_names": ["ElegantSpaces", "Dreamscapes", "ChicLiving"],
+            "specific_call_to_actions": ["Schedule a design consultation", "Browse our portfolio", "Contact us for a quote"],
+            "product_categories": ["Residential Design", "Commercial Design", "Hospitality Design", "Interior Styling"]
+        },
+        {
+            "id": 3,
+            "industry": "Property Agency",
+            "company_name": "Prime Realty Solutions",
+            "office_address": "789, Persiaran Raja Chulan, 50200 Kuala Lumpur, Malaysia.",
+            "contact_email": "info@primerealty.com",
+            "contact_phone_number": "+6012-345 6789",
+            "color_theme": ["#228B22", "#FFFFFF", "#FFD700"],
+            "focus_specific_locations": ["Kuala Lumpur", "Petaling Jaya", "Subang Jaya"],
+            "summary_of_main_business_services_provided": "Prime Realty Solutions is your trusted partner in real estate, offering comprehensive services tailored to meet your property needs. Whether you're buying, selling, renting, or investing, our experienced agents provide expert guidance and personalized solutions to help you achieve your goals.",
+            "focus_keywords": ["real estate", "property agency", "buying", "selling", "renting", "investing"],
+            "focus_customer_group": {
+            "business_type": "b2c",
+            "target_customers": ["Homebuyers", "Property Investors", "Tenants", "Sellers"]
+            },
+            "history_of_the_company": {
+            "founder": "David Lim",
+            "founded_since": "2008",
+            "progression": "Prime Realty Solutions was founded with a vision to redefine the real estate experience by prioritizing integrity, professionalism, and client satisfaction. Over the years, we have built a strong reputation for excellence, helping countless clients navigate the dynamic property market with confidence."
+            },
+            "example_product_names": ["PrimeHomes", "InvestPro", "RentEase"],
+            "specific_call_to_actions": ["Find your dream home", "List your property with us", "Speak to an agent"],
+            "product_categories": ["Residential Properties", "Commercial Properties", "Investment Properties", "Rental Properties"]
+        },
+        {
+            "id": 4,
+            "industry": "Industrial",
+            "company_name": "JS Automation Engineering Solutions",
+            "office_address": "101, Jalan Perindustrian, 43300 Seri Kembangan, Selangor, Malaysia.",
+            "contact_email": "info@jsautomation.com",
+            "contact_phone_number": "+6018-765 4321",
+            "color_theme": ["#FF4500", "#FFFFFF", "#000000"],
+            "focus_specific_locations": ["Seri Kembangan", "Cyberjaya", "Shah Alam"],
+            "summary_of_main_business_services_provided": "JS Automation Engineering Solutions is a leading provider of industrial control systems, specializing in automation solutions tailored to optimize efficiency and productivity in manufacturing processes. With our expertise in PLC programming, SCADA systems, and robotics integration, we empower industries to streamline operations and achieve greater success.",
+            "focus_keywords": ["industrial automation", "control systems", "PLC programming", "SCADA systems", "robotics integration"],
+            "focus_customer_group": {
+            "business_type": "b2b",
+            "target_customers": ["Manufacturers", "Factory Owners", "Industrial Engineers"]
+            },
+            "history_of_the_company": {
+            "founder": "James Tan",
+            "founded_since": "2012",
+            "progression": "JS Automation Engineering Solutions was founded with a mission to revolutionize industrial processes through cutting-edge automation technology. Since our inception, we have collaborated with industry leaders to implement innovative solutions that enhance operational efficiency, reduce downtime, and drive sustainable growth."
+            },
+            "example_product_names": ["AutoFlow", "OptiControl", "RoboTech"],
+            "specific_call_to_actions": ["Request a consultation", "Explore our automation solutions", "Contact our experts"],
+            "product_categories": ["PLC Systems", "SCADA Systems", "Robotics Solutions", "Industrial Control Panels"]
         }
     ]
 }
