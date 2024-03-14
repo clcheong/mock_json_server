@@ -1,0 +1,24 @@
+{
+    "industry": "Technology",
+    "company_name": "TechSolutions Inc.",
+    "office_address": "122, Jalan Sembarau Skudai, 81300, Skudai, Johor.",
+    "contact_email": "info@techsolutions.com",
+    "contact_phone_number": "+6012-513 9022",
+    "color_theme": ["#336699", "#FFFFFF", "#FF9900"],
+    "focus_specific_locations": ["Johor Bahru", "Kuala Lumpur"],
+    "summary_of_main_business_services_provided": "TechSolutions Inc. provides innovative tech solutions and services tailored to meet the unique needs of businesses in various industries. We specialize in software development, IT consulting, and digital transformation.",
+    "focus_keywords": ["technology solutions", "software development", "IT consulting", "digital transformation"],
+    "focus_customer_group": {
+      "business_type": "b2b",
+      "target_customers": ["Small businesses", "Enterprises"]
+    },
+    "history_of_the_company": {
+      "founder": "John Smith",
+      "founded_since": "2005",
+      "progression": "TechSolutions Inc. started as a small IT consultancy firm and has grown into a leading provider of comprehensive technology solutions over the years. With a dedicated team of experts and a commitment to innovation, we continue to thrive in the ever-evolving tech industry."
+    },
+    "example_product_names": ["TechGenius", "DataSolve", "CloudWorks"],
+    "specific_call_to_actions": ["Request a consultation", "Explore our solutions", "Contact us for more information"],
+    "product_categories": ["Software Development", "IT Consulting", "Digital Transformation", "Cloud Services"]
+}
+  
